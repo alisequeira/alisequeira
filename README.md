@@ -1,5 +1,4 @@
 ### what's up! 👋
-![githubbanner](https://user-images.githubusercontent.com/36526778/89593021-54f7fe80-d80b-11ea-84e2-be2f4e0408c2.png)
 ### I'm from Nicaragua. Land of lakes and volcanoes :volcano:
 ### I am a software developer currently I'm doing internship at SolidLogix LLC
 ### :computer: | :movie_camera: | :art: | :guitar:
